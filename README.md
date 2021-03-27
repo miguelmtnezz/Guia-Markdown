@@ -17,11 +17,11 @@ El objetivo de esta guia es para compartir y recordar las diferentes posibilidad
 
 
 ## ESTRUCTURA <a name="estructura"></a>
-La guia se estructura de la siguiente manera:  
+La guía se estructura de la siguiente manera:  
 - Encabezados
 - Párrafos y saltos de linea
 - Bloques
-- Separacion horizontal
+- Separación horizontal
 - Énfasis (negrita, cursiva, tachado)
 - Citas
 - Código
