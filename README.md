@@ -18,7 +18,7 @@ El objetivo de esta guia es para compartir y recordar las diferentes posibilidad
 
 ## ESTRUCTURA <a name="estructura"></a>
 La guía se estructura de la siguiente manera:  
-- Encabezados
+- [Encabezados](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/encabezados.md)
 - Párrafos y saltos de linea
 - Bloques
 - Separación horizontal
