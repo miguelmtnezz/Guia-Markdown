@@ -20,7 +20,7 @@ El objetivo de esta guia es para compartir y recordar las diferentes posibilidad
 La guía se estructura de la siguiente manera:  
 - [Encabezados](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/encabezados.md)
 - Párrafos y saltos de linea
-- Citas
+- [Citas](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/citas.md)
 - Separación horizontal
 - Énfasis (negrita, cursiva, tachado)
 - Código
