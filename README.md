@@ -23,6 +23,18 @@ La guía se estructura de la siguiente manera:
 - [Citas](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/citas.md)
 - Separación horizontal
 - Énfasis (negrita, cursiva, tachado)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 - Código
 - Tablas
 - Listas ordenadas y desordenadas
