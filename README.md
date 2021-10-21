@@ -1,4 +1,3 @@
-# ![Logo Markdown][logo] Guia de Markdown
 **Markdown** es un lenguaje de marcado ligero creado por *John Gruber* que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Markdown convierte el texto marcado en documentos XHTML utilizando html2text creado por *Aaron Swartz*. Markdown fue implementado originariamente en Perl por Gruber, pero desde entonces ha sido traducido a multitud de lenguajes de programación, incluyendo PHP, Python, Ruby, Java y Common Lisp.
 >_Fuente Wikipedia: [Markdown](https://es.wikipedia.org/wiki/Markdown)  
 Consultado el 26/03/2021_
@@ -32,6 +31,5 @@ La guía se estructura de la siguiente manera:
 
 ![banner]
 
-<!--GALERIA DE IMAGENES-->
-[logo]: https://github.com/miguelmtnezz/Guia-Markdown/blob/main/img/logo.png?raw=true
+<!--RUTA DE IMAGENES-->
 [banner]: https://github.com/miguelmtnezz/Guia-Markdown/blob/main/img/miniatura.png?raw=true
