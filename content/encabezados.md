@@ -3,7 +3,7 @@ Las `#` es el metodo mas utilizado en Markdown para crear encabezado.
 Dependiendo del nivel de encabezado (6 niveles) que utilicemos iremos añadiendo `#`.  
 
 |     **Codigo**      |     **Resultado**      |
-|         ---         |         ---            |
+|         --          |          --            |
 |# Encabezado 1       |<h1>Encabezado 1</h1>   |
 |## Encabezado 2      |<h2>Encabezado 2</h2>   |
 |### Encabezado 3     |<h3>Encabezado 3</h3>   |
