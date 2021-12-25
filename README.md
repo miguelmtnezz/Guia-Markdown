@@ -25,9 +25,9 @@ La guía se estructura de la siguiente manera:
 - [Código](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/codigo.md)
 - [Tablas](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/tablas.md)
 - [Listas ordenadas y desordenadas](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/listas.md)
-- Enlaces
-- Imágenes
-- Emojis
+- [Enlaces](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/enlaces.md)
+- [Imágenes](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/imagenes.md)
+
 
 ![banner]
 
