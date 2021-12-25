@@ -21,8 +21,8 @@ La guía se estructura de la siguiente manera:
 - [Párrafos y saltos de linea](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/parrafos-y-saltosdelinea.md)
 - [Citas](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/citas.md)
 - [Separación horizontal](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/separaciones.md)
-- Énfasis (negrita, cursiva, tachado)  
-- Código
+- [Énfasis (negrita, cursiva, tachado)](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/enfasis.md)
+- [Código](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/codigo.md)
 - Tablas
 - Listas ordenadas y desordenadas
 - Enlaces
