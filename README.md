@@ -23,8 +23,9 @@ La guía se estructura de la siguiente manera:
 - [Separación horizontal](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/separaciones.md)
 - [Énfasis (negrita, cursiva, tachado)](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/enfasis.md)
 - [Código](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/codigo.md)
-- Tablas
-- Listas ordenadas y desordenadas
+- [Tablas](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/tablas.md)
+- [Listas ordenadas y desordenadas](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/listas.md)
+- [Abreviaciones](https://github.com/miguelmtnezz/Guia-Markdown/blob/main/content/abreviaciones.md)
 - Enlaces
 - Imágenes
 - Emojis
